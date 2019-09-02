@@ -1847,7 +1847,7 @@ body {
   padding-top: 30px;
   padding-bottom: 90px;
   position: relative;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-rAVma5zaQX p {
   color: #767676;
@@ -1881,35 +1881,14 @@ body {
 .cid-rAVma5zaQX .card .card-header a.panel-title h4 .sign {
   padding-right: 1rem;
 }
-.cid-rAVs5vGipi .google-map {
-  height: 25rem;
-  position: relative;
-}
-.cid-rAVs5vGipi .google-map iframe {
-  height: 100%;
-  width: 100%;
-}
-.cid-rAVs5vGipi .google-map [data-state-details] {
-  color: #6b6763;
-  font-family: Montserrat;
-  height: 1.5em;
-  margin-top: -0.75em;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-  position: absolute;
-  text-align: center;
-  top: 50%;
-  width: 100%;
-}
-.cid-rAVs5vGipi .google-map[data-state] {
-  background: #e9e5dc;
-}
-.cid-rAVs5vGipi .google-map[data-state="loading"] [data-state-details] {
-  display: none;
+.cid-rAWfdgPq2A {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/mapa-864x491.png");
 }
 .cid-rAVhjQzJvV {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #232323;
 }
 @media (max-width: 767px) {
