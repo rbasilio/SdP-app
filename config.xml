@@ -16,8 +16,4 @@
 
   <splash src="splash.png" />
   <icon src="icon.png" />
-
-  <config-file platform="android" parent="/manifest">
-    <uses-sdk tools:overrideLibrary="org.apache.cordova,com.library.plugin" />
-  </config-file>
 </widget>
